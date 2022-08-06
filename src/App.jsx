@@ -63,11 +63,11 @@ function App() {
         Dados pegos do site Themoviedb.org
       </footer>
 
-      {movieList.length <= 0 &&
+      {/* {movieList.length <= 0 &&
         <div className="loading">
           <img src="https://i.gifer.com/origin/36/36527397c208b977fa3ef21f68c0f7b2.gif" alt="carregando" />
         </div>
-      }
+      } */}
 
     </div>
   );
